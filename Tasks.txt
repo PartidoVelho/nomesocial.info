@@ -1,4 +1,4 @@
-<div class="message spoilers-container" dir="auto"><span class="translatable-message">PartidoVelho: b <a class="anchor-url" href="https://nomesocial.info" target="_blank" rel="noopener noreferrer">nomesocial.info</a> (and maybe <a class="anchor-url" href="https://nomecivil.social" target="_blank" rel="noopener noreferrer">nomecivil.social</a> e <a class="anchor-url" href="https://nomeoficial.social" target="_blank" rel="noopener noreferrer">nomeoficial.social</a>) <a class="anchor-url" href="https://www.namecheap.com/domains/registration/results/?domain=nomesocial.info" target="_blank" rel="noopener noreferrer">https://www.namecheap.com/domains/registration/results/?domain=nomesocial.info</a> and make a React site listing businesses/services that are enabling social name or ignoring it.
+PartidoVelho: b nomesocial.info (and maybe nomecivil.social e nomeoficial.social) https://www.namecheap.com/domains/registration/results/?domain=nomesocial.info and make a React site listing businesses/services that are enabling social name or ignoring it.
 
 Enabling:
 - Uber
@@ -8,23 +8,7 @@ Enabling:
 Ignoring:
 - VIVO
 - Serasa
--
-- Zippi</span><span class="time"><i class="time-edited time-part i18n">edited</i><span class="post-views">3</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">21:20</span><div class="time-inner" title="3 April 2024, 21:20:21
-Edited: 3 April 2024, 21:25:49"><i class="time-edited time-part i18n">edited</i><span class="post-views">3</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">21:20</span></div></span></div>
-
--
-
-<div class="message spoilers-container" dir="auto"><span class="translatable-message">Ignoring:
+- Zippi
 - InterBnk
-- Empr Sim (do Santander)</span><span class="time"><span class="post-views">4</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">11:27</span><div class="time-inner" title="12 April 2024, 11:27:20"><span class="post-views">4</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">11:27</span></div></span></div>
-
--
-
-has quote:
-<div class="message spoilers-container" dir="auto"><div class="reply quote-like quote-like-hoverable quote-like-border rp" dir="auto" style="--peer-color-rgb: var(--peer-2-color-rgb); --peer-border-background: var(--peer-2-border-background);"><div class="c-ripple"></div><div class="reply-content"><div class="reply-title" dir="auto"><span class="peer-title" dir="auto" data-peer-id="-1303020294" data-dialog="0" data-only-first-name="0" data-plain-text="0" data-from-name="0">Mob-PC</span></div><div class="reply-subtitle" dir="auto">Ignoring:
-- InterBnk
-- Empr Sim (do Santander)</div></div></div><span class="translatable-message">- Clickbus</span><span class="time"><span class="post-views">4</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">18:07</span><div class="time-inner" title="12 April 2024, 18:07:58"><span class="post-views">4</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">18:07</span></div></span></div>
-
--
-rmv-after-commit:
-<div class="message spoilers-container" dir="auto"><div class="reply quote-like quote-like-hoverable quote-like-border rp" dir="auto" style="--peer-color-rgb: var(--peer-2-color-rgb); --peer-border-background: var(--peer-2-border-background);"><div class="c-ripple"></div><div class="reply-content"><div class="reply-title" dir="auto"><span class="peer-title" dir="auto" data-peer-id="-1303020294" data-dialog="0" data-only-first-name="0" data-plain-text="0" data-from-name="0">Mob-PC</span></div><div class="reply-subtitle" dir="auto">PartidoVelho: b nomesocial.info (and maybe nomecivil.social e nomeoficial.social) https://www.namech...</div></div></div><span class="translatable-message">pux</span><span class="time"><span class="post-views">1</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">21:28</span><div class="time-inner" title="26 April 2024, 21:28:33"><span class="post-views">1</span><span class="tgico time-icon time-part time-icon-views"></span><span class="i18n" dir="auto">21:28</span></div></span></div>
+- Empr Sim (do Santander)
+- Clickbus
