@@ -1,13 +1,16 @@
 buy domains:
-nomesocial.info https://www.namecheap.com/domains/registration/results/?domain=nomesocial.info 
-nomecivil.social https://www.namecheap.com/domains/registration/results/?domain=nomecivil.social 
-nomeoficial.social https://www.namecheap.com/domains/registration/results/?domain=nomeoficial.social 
+$3.48 nomesocial.info https://www.namecheap.com/domains/registration/results/?domain=nomesocial.info https://archive.is/MM2UD
+ nomecivil.social https://www.namecheap.com/domains/registration/results/?domain=nomecivil.social 
+ nomeoficial.social https://www.namecheap.com/domains/registration/results/?domain=nomeoficial.social 
 (as of 27/04/2024, ?all the three are available? and totalling $?)
 
 Enabling:
 - Uber
 - iFood
+-? Rappi
 - NuBank
+- MercadoLibre
+- C6 bank (can even write it on the credit card, w/o need for retification!)
 
 Ignoring:
 - VIVO
