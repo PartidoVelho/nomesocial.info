@@ -1,0 +1,43 @@
+commit QmPBR41DwAdhwj7CQnFKhaKcSPBtQ3ka3puuFAV4EJB6Ls
+Branch: HEAD
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 09e72d7fdb196ccbc7db34f355b17c93727ce2fe0499650959ee2b8bdfb79aaf6974a5d3ac2fc3a8680a032f196f2dcf4582069104eb9b1bb13aca0113e8841b01
+
+------------------------------
+
+Commit CID if including git's SHA1: QmfTLV4zpuLf1WJpdk4cynxgApvAcEDJeV86dyphEeGo1X
+Commit CID if containing only file hashes: QmaxdEniYvPkG2uX7N2eMLtoEU88jB2sWr1qiuXjzyknRy
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /media/daniella/B/git/Velho/Sites/nomesocial.info
+Remote Name: 
+Remote URL: 
+
+------------------------------
+
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-04-27 18:19:00.1691198000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-04-27 18:19:26.4504365000 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-04-27 18:19:26.4634376000 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-04-27 18:21:54.1199431000 -0300" '.folderstamp2'
+chown -h 1000:1000 '.folderstamp3'
+chmod 0664 '.folderstamp3'
+/usr/bin/touch -hcmd "2024-04-27 18:21:59.3293074000 -0300" '.folderstamp3'
+/usr/bin/touch -hcad "2024-04-27 18:22:06.8858312000 -0300" '.folderstamp3'
+chown -h 1000:1000 '.folderstamp4'
+chmod 0664 '.folderstamp4'
+/usr/bin/touch -hcmd "2024-04-27 18:22:07.0368417000 -0300" '.folderstamp4'
+/usr/bin/touch -hcad "2024-04-27 18:24:48.6698943000 -0300" '.folderstamp4'
+chown -h 1000:1000 'Tasks.txt'
+chmod 0664 'Tasks.txt'
+/usr/bin/touch -hcmd "2024-04-27 18:20:03.7995790000 -0300" 'Tasks.txt'
+/usr/bin/touch -hcad "2024-04-27 18:21:59.3203068000 -0300" 'Tasks.txt'
+chown -h 1000:1000 'index.html'
+chmod 0664 'index.html'
+/usr/bin/touch -hcmd "2024-04-27 18:24:34.8551127000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-04-27 18:24:48.6708944000 -0300" 'index.html'
