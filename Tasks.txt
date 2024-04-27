@@ -1,8 +1,34 @@
 buy domains:
 $3.48 nomesocial.info https://www.namecheap.com/domains/registration/results/?domain=nomesocial.info https://archive.is/MM2UD
- nomecivil.social https://www.namecheap.com/domains/registration/results/?domain=nomecivil.social 
- nomeoficial.social https://www.namecheap.com/domains/registration/results/?domain=nomeoficial.social 
-(as of 27/04/2024, ?all the three are available? and totalling $?)
+$6.98 nomecivil.social https://www.namecheap.com/domains/registration/results/?domain=nomecivil.social https://archive.is/2qX42
+$6.98 nomeoficial.social https://www.namecheap.com/domains/registration/results/?domain=nomeoficial.social https://archive.is/3tC5J
+(as of 27/04/2024, all the three are available and totalling $17.44 at the first year)
+
+----
+
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8727.htm
+DECRETO Nº 8.727, DE 28 DE ABRIL DE 2016:
+ A PRESIDENTA DA REPÚBLICA , no uso da atribuição que lhe confere o art. 84, caput , inciso VI, alínea “a”, da Constituição, e tendo em vista o disposto no art. 1º, caput , inciso III, no art. 3º, caput , inciso IV; e no art. 5º, caput, da Constituição,
+
+DECRETA:
+
+Art. 1º Este Decreto dispõe sobre o uso do nome social e o reconhecimento da identidade de gênero de pessoas travestis ou transexuais no âmbito da administração pública federal direta, autárquica e fundacional.
+
+Parágrafo único. Para os fins deste Decreto, considera-se:
+
+I - nome social - designação pela qual a pessoa travesti ou transexual se identifica e é socialmente reconhecida; e
+
+II - identidade de gênero - dimensão da identidade de uma pessoa que diz respeito à forma como se relaciona com as representações de masculinidade e feminilidade e como isso se traduz em sua prática social, sem guardar relação necessária com o sexo atribuído no nascimento.
+
+Art. 2º Os órgãos e as entidades da administração pública federal direta, autárquica e fundacional, em seus atos e procedimentos, deverão adotar o nome social da pessoa travesti ou transexual, de acordo com seu requerimento e com o disposto neste Decreto.
+
+Parágrafo único. É vedado o uso de expressões pejorativas e discriminatórias para referir-se a pessoas travestis ou transexuais.
+
+Art. 3º Os registros dos sistemas de informação, de cadastros, de programas, de serviços, de fichas, de formulários, de prontuários e congêneres dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional deverão conter o campo “nome social” em destaque, acompanhado do nome civil, que será utilizado apenas para fins administrativos internos. (Vigência) 
+
+Jogo de empurra entre o Federal (formulário de manifestações do app Meu SUS) e o Estadual (UBS da Vila Formosa de São Paulo):
+https://agenciagov.ebc.com.br/noticias/202401/nova-atualizacao-do-aplicativo-2018meu-sus-digital2019-passa-a-exibir-nome-social
+Em mais uma iniciativa que reforça o compromisso do governo federal em garantir os direitos das pessoas trans e assegurar o respeito ao uso do nome social, o Ministério da Saúde atualizou o aplicativo ‘Meu SUS Digital’.  A partir de agora, o nome social da pessoa será exibido como nome principal na ferramenta, estando incluso também no Prontuário Eletrônico do Cidadão (PEC), que é acessado por usuários, gestores e profissionais da saúde. A novidade foi anunciada pela ministra Nísia Trindade, nesta segunda-feira (29), durante cerimônia de homenagem aos 20 anos da Visibilidade Trans, no auditório do Ministério dos Direitos Humanos e da Cidadania.
 
 Enabling:
 - Uber
@@ -14,10 +40,16 @@ Enabling:
 
 Ignoring:
 - VIVO
+- Claro
 - Serasa
 - Zippi
 - InterBnk
-- Empr Sim (do Santander)
+- Empréstimo Sim (do Santander)
 - Clickbus
+- Foxbit
+- Mercado Bitcoin
+- SuperDomínios (experiencia pessoal: o Daniella entre parenteses no meio do prenome civil e sobrenome nao adiantou, continuaram tratando no masculino e o site nao tem campo para nome social)
+
+----
 
 - make a React site dinamically listing businesses/services that are enabling social name or ignoring it.
