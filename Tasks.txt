@@ -48,7 +48,7 @@ Ignoring:
 - Clickbus
 - Foxbit
 - Mercado Bitcoin
-- SuperDomínios (experiencia pessoal: o Daniella entre parenteses no meio do prenome civil e sobrenome nao adiantou, continuaram tratando no masculino e o site nao tem campo para nome social)
+- SuperDomínios: experiencia pessoal: o Daniella entre parenteses no meio do prenome civil e sobrenome nao adiantou, continuaram tratando no masculino e o site nao tem campo para nome social
 
 ----
 
