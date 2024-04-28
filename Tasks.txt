@@ -1,8 +1,8 @@
 buy domains:
 $3.48 (Retail $21.98/yr) nomesocial.info https://www.namecheap.com/domains/registration/results/?domain=nomesocial.info https://archive.is/MM2UD
-$6.98 (Retail $31.98/yr) nomecivil.social https://www.namecheap.com/domains/registration/results/?domain=nomecivil.social https://archive.is/2qX42
-$6.98 (Retail $31.98/yr) nomeoficial.social https://www.namecheap.com/domains/registration/results/?domain=nomeoficial.social https://archive.is/3tC5J
-(as of 27/04/2024, all the three are available and totalling $17.44 - R$89,23 - at the first year R$7,43 monthly ; after, retails yearly at $85.94 - R$439,69 - being R$36,64 monthly)
+$3.48 (Retail $21.98/yr) https://www.namecheap.com/domains/registration/results/?domain=transicao.info https://archive.is/QCw34
+$6.98 (Retail $31.98/yr) https://www.namecheap.com/domains/registration/results/?domain=nome.social https://archive.is/t7bGN
+(as of 27/04/2024, all the three are available and totalling $13.94 - R$71,32 - at the first year R$5,94 monthly ; after, retails yearly at $75.94 - R$388,53 - being R$32,37 monthly)
 
 ----
 
@@ -53,3 +53,10 @@ Ignoring:
 ----
 
 - make a React site dinamically listing businesses/services that are enabling social name or ignoring it.
+
+----
+
+optional redirect domains for later:
+- $6.98 (Retail $31.98/yr) nomecivil.social https://www.namecheap.com/domains/registration/results/?domain=nomecivil.social https://archive.is/2qX42
+- $6.98 (Retail $31.98/yr) nomeoficial.social https://www.namecheap.com/domains/registration/results/?domain=nomeoficial.social https://archive.is/-3tC5J
+- https://www.namecheap.com/domains/registration/results/?domain=transi%C3%A7%C3%A3o.info
