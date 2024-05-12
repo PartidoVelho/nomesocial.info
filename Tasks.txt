@@ -25,10 +25,12 @@ Em mais uma iniciativa que reforça o compromisso do governo federal em garantir
 Enabling:
 - Uber
 - iFood
--? Rappi
+- Rappi
 - NuBank
 - MercadoLibre
 - C6 bank (can even write it on the credit card, w/o need for retification!)
+- MedPrev (higher score than DrConsulta, as directly mentions social nome and not "nickname")
+- DrConsulta
 
 Ignoring:
 - VIVO
